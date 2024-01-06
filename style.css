@@ -94,3 +94,27 @@ h1{
     transition: 0.9s;
     color: var(--primary-color);
 }
+
+    @media (max-width:500px) {
+        .box{
+            height: 90px; ;
+            width: 90px;
+            border-radius: 1rem;
+            border: none;
+            box-shadow: 0 0 16px rgba(0, 0, 0, 0.7);
+            font-size: 9vmin;
+            color: var(--secondary-color);
+
+        }
+
+        .game{
+            height: 60vmax;
+            width: 60vmax;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            gap: 1vmin;
+        }
+    }
+        
