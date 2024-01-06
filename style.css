@@ -95,10 +95,10 @@ h1{
     color: var(--primary-color);
 }
 
-    @media (max-width:500px) {
+    @media (max-width:600px) {
         .box{
-            height: 90px; ;
-            width: 90px;
+            height: 120px; ;
+            width: 120px;
             border-radius: 1rem;
             border: none;
             box-shadow: 0 0 16px rgba(0, 0, 0, 0.7);
