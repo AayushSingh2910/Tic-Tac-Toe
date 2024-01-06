@@ -97,8 +97,8 @@ h1{
 
     @media (max-width:500px) {
         .box{
-            height: 120px; ;
-            width: 120px;
+            height: 90px; ;
+            width: 90px;
             border-radius: 1rem;
             border: none;
             box-shadow: 0 0 16px rgba(0, 0, 0, 0.7);
